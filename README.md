@@ -21,8 +21,8 @@ To run this agent in your local machine, follow these steps:
 
     # install dependencies
     uv pip install -r requirements.txt
-3. <b>To run the Server
+3. <b>To run the Server</b>
    ```bash
     # To test server
-    mcp dev server.py
+    mcp dev server/server.py
     ```
